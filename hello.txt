@@ -2,3 +2,4 @@ hello -mygit2
 hello -本地修改
 hello -远程修改
 hello -本地修改2
+hello -远程修改2
